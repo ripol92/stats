@@ -1,4 +1,2 @@
-github.com/ripol92/bank v0.0.0-20210406064541-441444bf1289 h1:/t6KrIZR1OlFDs6CgvACtBSTNzrEWuWS035srU6syRk=
-github.com/ripol92/bank v0.0.0-20210406064541-441444bf1289/go.mod h1:V+VU0/Wt6XMSc6nAr20z4kQq6evRaaZTGgfOEOanNsg=
-github.com/ripol92/bank v0.0.0-20210406070948-199a22fcca43 h1:DFtRYDYNsiTPvp/6gO/AWFb8V+PEc0j1NdGxS19nBAI=
-github.com/ripol92/bank v0.0.0-20210406070948-199a22fcca43/go.mod h1:V+VU0/Wt6XMSc6nAr20z4kQq6evRaaZTGgfOEOanNsg=
+github.com/ripol92/bank/v2 v2.0.0-20210406075646-98c363f92dd7 h1:geNDti9RCKTkywK8sY9OD9YiV0Mf8Ib464pba3MHWMs=
+github.com/ripol92/bank/v2 v2.0.0-20210406075646-98c363f92dd7/go.mod h1:ZE2dCtL+Sf9qdZOTfVKui0lB0NP0+WNO1+xnk+KuMjQ=
